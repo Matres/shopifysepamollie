@@ -5,8 +5,10 @@
  * 
  * Matthijs Alderliefste
  * 15 - 9 - 2018
-
+*/
 
 // authenticate with Shopify 
 
 //
+
+echo "hello world";
